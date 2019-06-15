@@ -1,0 +1,110 @@
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Lara_FinalProject.exe.config
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Lara_FinalProject.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Lara_FinalProject.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.csprojResolveAssemblyReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmMain.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.Properties.Resources.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.csproj.GenerateResource.Cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Lara_FinalProject.exe.config
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Lara_FinalProject.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Lara_FinalProject.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.csprojResolveAssemblyReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmMain.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.Properties.Resources.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.csproj.GenerateResource.Cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmEdit.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmDemo.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmLogin.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Interop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Interop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.csproj.ResolveComReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Interop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.csproj.ResolveComReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\Interop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmDemo.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmEdit.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\obj\Debug\Lara_FinalProject.frmLogin.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe.config
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Interop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\AxInterop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.ResolveComReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Interop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\AxInterop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csprojResolveAssemblyReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmDemo.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmEdit.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmLogin.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmMain.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.Properties.Resources.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.GenerateResource.Cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe.config
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Interop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\AxInterop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.ResolveComReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Interop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\AxInterop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csprojResolveAssemblyReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmDemo.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmEdit.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmLogin.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmMain.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.Properties.Resources.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.GenerateResource.Cache
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe.config
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Interop.WMPLib.dll
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.ResolveComReference.cache
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.exe
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.pdb
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe.config
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.ResolveComReference.cache
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.exe
+C:\Users\Ez Pawn\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.pdb
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.pdb
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Interop.WMPLib.dll
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmDemo.resources
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmEdit.resources
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmLogin.resources
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmMain.resources
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.Properties.Resources.resources
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.GenerateResource.Cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe.config
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Lara_FinalProject.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Interop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Interop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.ResolveComReference.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmDemo.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmEdit.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmLogin.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.frmMain.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.Properties.Resources.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.csproj.GenerateResource.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\obj\Debug\Lara_FinalProject.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Database1.mdf
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_FinalProject\Lara_FinalProject_Visual\bin\Debug\Database1_log.ldf
